@@ -85,3 +85,17 @@ padding-top: 20px;
     display: inline;
     vertical-align: center;
 }
+
+.news{
+    background-color: rgb(0, 58, 101);
+    height: 500px;
+    width: 700px;
+    padding-top: 200px;
+}
+
+.blog{
+    background-color: rgb(217, 226, 232);
+    height: 400px; 
+    width: 600px;
+}
+
